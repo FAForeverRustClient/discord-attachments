@@ -1,0 +1,51 @@
+How the matchmaker works
+How you get matched with somebody, and why a queue with people in it can still be quiet.
+
+How you get matched
+You join a queue and wait. Every so often the server takes everybody waiting in that queue and looks for the fairest games it can build out of them. It is not first come, first served: it is looking at ratings, so somebody who queued after you can get a game before you do simply because they fit one.
+
+“Fairest” means the expected result is closest to even. The server scores every way it could split the people waiting into two teams, and starts the ones it scores well enough. A split it does not rate highly enough is not started at all: it would rather leave you waiting than hand you a game it already expects you to lose.
+
+Why nothing starts even though people are queued
+The usual surprise: eight people are in the 3v3 queue and no game appears. Three things all have to be true at once, and a count only shows the first.
+
+Enough players. A 3v3 needs six, a 4v4 needs eight. Eight in a 3v3 queue is two more than one game and two short of two games.
+A balanced split among them. Six players whose ratings cannot be divided into two even sides are not a game the server will start, however long they have waited. One very high or very low rating in an otherwise close group is enough to do this.
+Parties that fit. A party goes in as one team and cannot be split up, so a party of three in a 4v4 queue needs a fourth, and two parties of three cannot make a 4v4 between them.
+Waiting does help: the longer a search waits, the wider a rating gap it will accept, so a split that was too uneven a minute ago can become acceptable. That is also why an off-peak game is usually the lopsided one.
+
+How far apart we can be
+There is no fixed limit. Each search carries a rating band it will accept an opponent from, and that band grows the longer the search waits. So the answer depends on how busy the queue is and how patient everybody in it has had to be, and the current numbers are below.
+
+The queues right now
+1 vs 1
+Needs 2 players, 1 waiting
+Looks for a match about every 1:30
+Accepted gaps right now: 200 to 200 rating points, across 1 searches
+2 vs 2
+Needs 4 players, 1 waiting
+Looks for a match about every 1:30
+Accepted gaps right now: 200 to 200 rating points, across 1 searches
+3 vs 3
+Needs 6 players, 9 waiting
+Looks for a match about every 1:24
+Accepted gaps right now: 200 to 200 rating points, across 7 searches
+4 vs 4
+Needs 8 players, 9 waiting
+Looks for a match about every 1:15
+Accepted gaps right now: 200 to 200 rating points, across 7 searches
+A gap is how wide a rating window one waiting search will accept, in rating points. It is a width rather than two ratings because the server measures these against the raw TrueSkill mean, while every number the client shows you is the displayed rating.
+
+What the game is set to
+You do not host a matchmaker game and you cannot change its settings. The server does, identically every time:
+
+Full share. Every matchmaker game, every queue. If you die, your base goes to your team.
+It counts. Every matchmaker game is rated on that queue's own leaderboard.
+The map comes from the queue's pool, not from a host. Open Map pool on a queue to see it and to veto the ones you would rather not get.
+The server picks the teams and the slots. There is no lobby to negotiate in and nobody to ask for a swap.
+You choose your faction before you search, not after the game is found.
+Queueing with friends
+Invite them to your party first and the whole party queues as one team. A party can only enter queues at least as large as it is, which is why a queue greys out when your party outgrows it, and it is why a party can wait longer than the same people would alone: the server has fewer ways to build a fair game around a group it cannot split.
+
+Read the wiki page
+Close
