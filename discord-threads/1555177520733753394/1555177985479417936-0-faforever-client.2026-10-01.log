@@ -1,0 +1,39 @@
+2026-10-01T11:13:26.443902Z  INFO faforever_rust_client_lib::diagnostics: client diagnostics initialized retained_files=7 max_file_bytes=10485760
+2026-10-01T11:13:26.445820Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-01T11:13:27.983096Z  INFO faf_app::infra::lobby_ws: lobby WebSocket connected
+2026-10-01T11:13:28.010670Z  INFO faf_app::infra::irc: chat WebSocket connected
+2026-10-01T11:13:28.034275Z  INFO faf_app::infra::lobby_ws: lobby notice received style=Info text=You are using an unofficial client version! Some features might not work as expected. If you experience any problems please download the latest version of the official client from <a href="https://www.faforever.com">https://www.faforever.com</a>
+2026-10-01T11:13:30.353952Z  INFO faf_app::infra::lobby_ws: lobby authenticated
+2026-10-01T11:13:41.460301Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-01T11:13:56.469918Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-01T11:14:11.485492Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-01T11:14:27.262576Z  INFO faf_app::infra::discord: Discord rich presence connected
+2026-10-01T11:15:24.929388Z  INFO faf_app::infra::lobby_ws: lobby issued game launch game_id=27882644
+2026-10-01T11:15:26.748984Z  INFO faf_app::infra::game_updater: resolved retail FA install for fa_path path=C:\Program Files (x86)\Steam\steamapps\common\Supreme Commander Forged Alliance
+2026-10-01T11:15:26.750388Z  INFO faf_app::infra::ice_select: starting selected ICE backend backend="Java (faf-ice-adapter)"
+2026-10-01T11:15:36.811153Z  INFO faf_app::infra::ice_java: starting Java ICE adapter game_id=27882644 rpc_port=58608 gpgnet_port=58609
+2026-10-01T11:15:37.870898Z  INFO faf_app::infra::replay_recorder: recording this game's replay port=58618 game_id=27882644
+2026-10-01T11:15:37.871020Z  INFO faf_app::infra::game: launching Forged Alliance argument_count=24 wrapper=""
+2026-10-01T11:15:45.398789Z  INFO faf_app::infra::ice_java: ICE adapter connection state state="Connected"
+2026-10-01T11:15:47.768160Z  INFO faf_app::infra::ice_java: ICE negotiation state remote_player=259 state="gathering"
+2026-10-01T11:15:55.109251Z  INFO faf_app::infra::ice_java: ICE negotiation state remote_player=259 state="awaitingCandidates"
+2026-10-01T11:15:55.113003Z  INFO faf_app::infra::ice_java: ICE negotiation state remote_player=259 state="checking"
+2026-10-01T11:15:58.574938Z  INFO faf_app::infra::ice_java: ICE negotiation state remote_player=259 state="disconnected"
+2026-10-01T11:15:58.583655Z  INFO faf_app::infra::ice_java: ICE negotiation state remote_player=259 state="gathering"
+2026-10-01T11:16:00.871391Z  INFO faf_app::infra::ice_java: ICE negotiation state remote_player=259 state="awaitingCandidates"
+2026-10-01T11:16:00.873411Z  INFO faf_app::infra::ice_java: ICE negotiation state remote_player=259 state="checking"
+2026-10-01T11:16:01.133269Z  INFO faf_app::infra::ice_java: ICE peer state remote_player=259 connected=true
+2026-10-01T11:16:01.133393Z  INFO faf_app::infra::ice_java: ICE negotiation state remote_player=259 state="connected"
+2026-10-01T11:16:01.148770Z  INFO faf_app::infra::ice_java: ICE peer state remote_player=259 connected=true
+2026-10-01T11:16:01.149092Z  INFO faf_app::infra::ice_java: ICE negotiation state remote_player=259 state="connected"
+2026-10-01T11:16:10.463552Z  WARN faf_app::infra::discord: Discord returned an error code=4000 child "activity" fails because [child "assets" fails because [child "large_text" fails because ["large_text" is not allowed to be empty]]]
+2026-10-01T11:18:39.187228Z  INFO faf_app::infra::ice_java: ICE adapter connection state state="Disconnected"
+2026-10-01T11:18:39.187236Z  INFO faf_app::infra::replay_recorder: replay recorded path=C:\ProgramData\FAForever\replays\27882644-DillyDally.fafreplay raw_bytes=26941 bytes=4749 complete=true
+2026-10-01T11:18:39.187526Z  INFO faf_app::infra::replay_relay: replay uploaded to FAF game_id=27882644 bytes=26974
+2026-10-01T11:18:39.191759Z  INFO faf_app::infra::ice_java: ICE peer state remote_player=259 connected=false
+2026-10-01T11:18:39.191941Z  INFO faf_app::infra::ice_java: ICE negotiation state remote_player=259 state="disconnected"
+2026-10-01T11:18:39.726396Z  INFO faf_app::services::launcher: the game process exited; releasing the launch
+2026-10-01T11:18:39.748035Z  WARN faf_app::infra::ice_java: Java ICE adapter notification stream ended
+2026-10-01T11:18:40.326602Z  INFO faf_app::services::launcher: launcher: game exit cleanup complete
+2026-10-01T11:20:20.733684Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord closed the connection
+2026-10-01T11:20:35.932986Z  INFO faf_app::infra::discord: Discord rich presence connected
