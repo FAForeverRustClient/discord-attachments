@@ -1,0 +1,623 @@
+2026-10-11T09:37:43.385115Z  INFO faforever_rust_client_lib::diagnostics: client diagnostics initialized retained_files=7 max_file_bytes=10485760
+2026-10-11T09:37:43.387826Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T09:37:44.757925Z  INFO faf_app::infra::lobby_ws: lobby WebSocket connected
+2026-10-11T09:37:44.809269Z  INFO faf_app::infra::lobby_ws: lobby notice received style=Info text=You are using an unofficial client version! Some features might not work as expected. If you experience any problems please download the latest version of the official client from <a href="https://www.faforever.com">https://www.faforever.com</a>
+2026-10-11T09:37:44.914056Z  INFO faf_app::infra::irc: chat WebSocket connected
+2026-10-11T09:37:47.148593Z  INFO faf_app::infra::lobby_ws: lobby authenticated
+2026-10-11T09:37:58.395596Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T09:38:01.647107Z  INFO faf_app::infra::game_updater: resolved retail FA install for fa_path path=C:\Program Files (x86)\Steam\steamapps\common\Supreme Commander Forged Alliance
+2026-10-11T09:38:13.409425Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T09:38:28.411191Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T09:38:43.214138Z  INFO faf_app::infra::lobby_ws: lobby issued game launch game_id=27937017
+2026-10-11T09:38:43.423529Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T09:38:44.617847Z  INFO faf_app::infra::game_updater: resolved retail FA install for fa_path path=C:\Program Files (x86)\Steam\steamapps\common\Supreme Commander Forged Alliance
+2026-10-11T09:38:44.619332Z  INFO faf_app::infra::ice_select: starting selected ICE backend backend="Java (faf-ice-adapter)"
+2026-10-11T09:38:54.682639Z  INFO faf_app::infra::ice_java: starting Java ICE adapter game_id=27937017 rpc_port=52522 gpgnet_port=52523
+2026-10-11T09:38:55.741045Z  INFO faf_app::infra::replay_recorder: recording this game's replay port=52527 game_id=27937017
+2026-10-11T09:38:55.741151Z  INFO faf_app::infra::game: launching Forged Alliance argument_count=24 wrapper=""
+2026-10-11T09:38:58.431949Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T09:39:01.864009Z  INFO faf_app::infra::ice_java: ICE adapter connection state state="Connected"
+2026-10-11T09:39:04.218099Z  INFO faf_app::infra::ice_java: ICE negotiation state remote_player=31333 state="gathering"
+2026-10-11T09:39:11.447744Z  INFO faf_app::infra::ice_java: ICE negotiation state remote_player=31333 state="awaitingCandidates"
+2026-10-11T09:39:11.452157Z  INFO faf_app::infra::ice_java: ICE negotiation state remote_player=31333 state="checking"
+2026-10-11T09:39:13.442495Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T09:39:16.302982Z  INFO faf_app::infra::ice_java: ICE negotiation state remote_player=31333 state="disconnected"
+2026-10-11T09:39:16.319025Z  INFO faf_app::infra::ice_java: ICE negotiation state remote_player=31333 state="gathering"
+2026-10-11T09:39:18.587466Z  INFO faf_app::infra::ice_java: ICE negotiation state remote_player=31333 state="awaitingCandidates"
+2026-10-11T09:39:18.588895Z  INFO faf_app::infra::ice_java: ICE negotiation state remote_player=31333 state="checking"
+2026-10-11T09:39:19.051239Z  INFO faf_app::infra::ice_java: ICE peer state remote_player=31333 connected=true
+2026-10-11T09:39:19.051289Z  INFO faf_app::infra::ice_java: ICE peer state remote_player=31333 connected=true
+2026-10-11T09:39:19.051397Z  INFO faf_app::infra::ice_java: ICE negotiation state remote_player=31333 state="connected"
+2026-10-11T09:39:19.051493Z  INFO faf_app::infra::ice_java: ICE negotiation state remote_player=31333 state="connected"
+2026-10-11T09:39:28.455016Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T09:39:43.460298Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T09:39:58.464782Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T09:40:13.472471Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T09:40:28.479435Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T09:40:43.487996Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T09:40:58.492145Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T09:41:13.493819Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T09:41:28.509031Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T09:41:43.510665Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T09:41:58.517264Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T09:42:13.521012Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T09:42:28.526277Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T09:42:43.536657Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T09:42:58.539690Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T09:43:13.548338Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T09:43:28.557916Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T09:43:43.567122Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T09:43:58.574859Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T09:44:13.581426Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T09:44:28.596985Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T09:44:43.604825Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T09:44:58.619216Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T09:44:58.790176Z  INFO faf_app::infra::replay_recorder: replay recorded path=C:\ProgramData\FAForever\replays\27937017-DillyDally.fafreplay raw_bytes=98155 bytes=13523 complete=true
+2026-10-11T09:44:58.790389Z  INFO faf_app::infra::replay_relay: replay uploaded to FAF game_id=27937017 bytes=98188
+2026-10-11T09:45:03.031013Z  INFO faf_app::infra::ice_java: ICE adapter connection state state="Disconnected"
+2026-10-11T09:45:03.038667Z  INFO faf_app::infra::ice_java: ICE peer state remote_player=31333 connected=false
+2026-10-11T09:45:03.038879Z  INFO faf_app::infra::ice_java: ICE negotiation state remote_player=31333 state="disconnected"
+2026-10-11T09:45:03.545498Z  INFO faf_app::services::launcher: the game process exited; releasing the launch
+2026-10-11T09:45:03.580220Z  WARN faf_app::infra::ice_java: Java ICE adapter notification stream ended
+2026-10-11T09:45:03.938955Z  INFO faf_app::services::launcher: launcher: game exit cleanup complete
+2026-10-11T09:45:11.452559Z  INFO faf_app::infra::game_updater: resolved retail FA install for fa_path path=C:\Program Files (x86)\Steam\steamapps\common\Supreme Commander Forged Alliance
+2026-10-11T09:45:13.626852Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T09:45:28.636062Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T09:45:43.639643Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T09:45:58.655752Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T09:46:01.465837Z  INFO faf_app::infra::replay: locally filtered vault scan pages=2 games=200 matched=32 exhausted=true elapsed_ms=3083
+2026-10-11T09:46:13.657628Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T09:46:24.338901Z  INFO faf_app::infra::game_updater: resolved retail FA install for fa_path path=C:\Program Files (x86)\Steam\steamapps\common\Supreme Commander Forged Alliance
+2026-10-11T09:46:24.347743Z  INFO faf_app::infra::game: launching Forged Alliance argument_count=9 wrapper=""
+2026-10-11T09:46:25.778633Z  INFO faf_app::infra::replay: locally filtered vault scan pages=2 games=200 matched=4 exhausted=true elapsed_ms=3149
+2026-10-11T09:46:26.779717Z  INFO faf_app::infra::replay: locally filtered vault scan pages=2 games=200 matched=4 exhausted=true elapsed_ms=3074
+2026-10-11T09:46:28.661987Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T09:46:43.676378Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T09:46:58.687052Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T09:47:13.693875Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T09:47:28.702589Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T09:47:43.713262Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T09:47:58.721425Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T09:48:13.734738Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T09:48:28.742786Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T09:48:28.911250Z  INFO faf_app::infra::game_updater: resolved retail FA install for fa_path path=C:\Program Files (x86)\Steam\steamapps\common\Supreme Commander Forged Alliance
+2026-10-11T09:48:28.918291Z  INFO faf_app::infra::game: launching Forged Alliance argument_count=9 wrapper=""
+2026-10-11T09:48:43.747940Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T09:48:58.762050Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T09:49:13.769479Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T09:49:28.784111Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T09:49:43.793195Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T09:49:58.808317Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T09:50:13.817891Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T09:50:28.823042Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T09:50:43.828721Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T09:50:58.835280Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T09:51:13.846097Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T09:51:28.847819Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T09:51:43.857793Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T09:51:58.861701Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T09:52:13.873987Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T09:52:28.881636Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T09:52:43.895955Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T09:52:58.902936Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T09:53:13.909826Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T09:53:28.922492Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T09:53:32.111180Z  INFO faf_app::infra::replay: locally filtered vault scan pages=2 games=200 matched=4 exhausted=true elapsed_ms=2881
+2026-10-11T09:53:41.693033Z  INFO faf_app::infra::replay: locally filtered vault scan pages=2 games=200 matched=11 exhausted=true elapsed_ms=4151
+2026-10-11T09:53:43.931140Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T09:53:58.938125Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T09:54:03.802832Z  INFO faf_app::infra::game_updater: resolved retail FA install for fa_path path=C:\Program Files (x86)\Steam\steamapps\common\Supreme Commander Forged Alliance
+2026-10-11T09:54:03.811133Z  INFO faf_app::infra::game: launching Forged Alliance argument_count=9 wrapper=""
+2026-10-11T09:54:13.946777Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T09:54:28.950544Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T09:54:43.956133Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T09:54:58.957334Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T09:55:13.969709Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T09:55:28.976520Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T09:55:43.984180Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T09:55:58.993228Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T09:56:14.004901Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T09:56:29.013253Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T09:56:44.025942Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T09:56:59.038522Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T09:57:14.053598Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T09:57:29.069296Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T09:57:44.081971Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T09:57:59.092649Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T09:58:14.095820Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T09:58:29.109181Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T09:58:44.117683Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T09:58:59.131215Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T09:59:14.145244Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T09:59:29.149415Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T09:59:44.153234Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T09:59:59.155393Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:00:14.160146Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:00:22.945607Z  INFO faf_app::infra::replay: locally filtered vault scan pages=2 games=200 matched=18 exhausted=true elapsed_ms=4198
+2026-10-11T10:00:29.170058Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:00:44.186826Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:00:59.200751Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:01:14.215121Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:01:15.418550Z  INFO faf_app::infra::game_updater: resolved retail FA install for fa_path path=C:\Program Files (x86)\Steam\steamapps\common\Supreme Commander Forged Alliance
+2026-10-11T10:01:15.425596Z  INFO faf_app::infra::game: launching Forged Alliance argument_count=9 wrapper=""
+2026-10-11T10:01:29.231330Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:01:44.242279Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:01:59.254099Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:02:14.262186Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:02:29.266829Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:02:44.281034Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:02:59.288691Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:03:14.291510Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:03:29.295382Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:03:44.299036Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:03:59.308252Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:04:14.317201Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:04:29.323317Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:04:44.324777Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:04:59.326105Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:05:14.337827Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:05:29.346984Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:05:44.347356Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:05:59.363388Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:06:14.378299Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:06:29.394655Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:06:44.408892Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:06:59.418192Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:07:14.422072Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:07:29.436420Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:07:29.600491Z  INFO faf_app::infra::game_updater: resolved retail FA install for fa_path path=C:\Program Files (x86)\Steam\steamapps\common\Supreme Commander Forged Alliance
+2026-10-11T10:07:44.452200Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:07:59.461292Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:08:11.924588Z  INFO faf_app::infra::lobby_ws: lobby issued game launch game_id=27937140
+2026-10-11T10:08:13.429288Z  INFO faf_app::infra::game_updater: resolved retail FA install for fa_path path=C:\Program Files (x86)\Steam\steamapps\common\Supreme Commander Forged Alliance
+2026-10-11T10:08:13.430262Z  INFO faf_app::infra::ice_select: starting selected ICE backend backend="Java (faf-ice-adapter)"
+2026-10-11T10:08:14.471587Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:08:23.497809Z  INFO faf_app::infra::ice_java: starting Java ICE adapter game_id=27937140 rpc_port=57345 gpgnet_port=57346
+2026-10-11T10:08:25.065325Z  INFO faf_app::infra::replay_recorder: recording this game's replay port=57350 game_id=27937140
+2026-10-11T10:08:25.065443Z  INFO faf_app::infra::game: launching Forged Alliance argument_count=24 wrapper=""
+2026-10-11T10:08:29.478748Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:08:30.868537Z  INFO faf_app::infra::ice_java: ICE adapter connection state state="Connected"
+2026-10-11T10:08:31.151108Z  INFO faf_app::infra::ice_java: ICE negotiation state remote_player=373906 state="gathering"
+2026-10-11T10:08:32.908041Z  INFO faf_app::infra::ice_java: ICE negotiation state remote_player=198349 state="gathering"
+2026-10-11T10:08:38.344692Z  INFO faf_app::infra::ice_java: ICE negotiation state remote_player=373906 state="awaitingCandidates"
+2026-10-11T10:08:39.010188Z  INFO faf_app::infra::ice_java: ICE negotiation state remote_player=373906 state="checking"
+2026-10-11T10:08:39.791416Z  INFO faf_app::infra::ice_java: ICE negotiation state remote_player=198349 state="awaitingCandidates"
+2026-10-11T10:08:39.793621Z  INFO faf_app::infra::ice_java: ICE negotiation state remote_player=198349 state="checking"
+2026-10-11T10:08:39.794631Z  INFO faf_app::infra::ice_java: ICE peer state remote_player=373906 connected=true
+2026-10-11T10:08:39.794949Z  INFO faf_app::infra::ice_java: ICE negotiation state remote_player=373906 state="connected"
+2026-10-11T10:08:40.402689Z  INFO faf_app::infra::ice_java: ICE negotiation state remote_player=265279 state="gathering"
+2026-10-11T10:08:42.667204Z  INFO faf_app::infra::ice_java: ICE negotiation state remote_player=265279 state="awaitingCandidates"
+2026-10-11T10:08:42.668257Z  INFO faf_app::infra::ice_java: ICE negotiation state remote_player=265279 state="checking"
+2026-10-11T10:08:43.280082Z  INFO faf_app::infra::ice_java: ICE peer state remote_player=265279 connected=true
+2026-10-11T10:08:43.280228Z  INFO faf_app::infra::ice_java: ICE negotiation state remote_player=265279 state="connected"
+2026-10-11T10:08:44.151549Z  INFO faf_app::infra::ice_java: ICE negotiation state remote_player=198349 state="disconnected"
+2026-10-11T10:08:44.156970Z  INFO faf_app::infra::ice_java: ICE negotiation state remote_player=198349 state="gathering"
+2026-10-11T10:08:44.489137Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:08:46.423947Z  INFO faf_app::infra::ice_java: ICE negotiation state remote_player=198349 state="awaitingCandidates"
+2026-10-11T10:08:46.425375Z  INFO faf_app::infra::ice_java: ICE negotiation state remote_player=198349 state="checking"
+2026-10-11T10:08:46.887507Z  INFO faf_app::infra::ice_java: ICE peer state remote_player=198349 connected=true
+2026-10-11T10:08:46.887533Z  INFO faf_app::infra::ice_java: ICE peer state remote_player=198349 connected=true
+2026-10-11T10:08:46.887691Z  INFO faf_app::infra::ice_java: ICE negotiation state remote_player=198349 state="connected"
+2026-10-11T10:08:46.887808Z  INFO faf_app::infra::ice_java: ICE negotiation state remote_player=198349 state="connected"
+2026-10-11T10:08:59.497876Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:09:14.498660Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:09:29.506077Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:09:44.508774Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:09:59.513580Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:10:14.528009Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:10:29.539507Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:10:44.544427Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:10:59.552853Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:11:14.556908Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:11:29.567534Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:11:44.582533Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:11:59.591837Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:12:14.594704Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:12:29.597961Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:12:44.600669Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:12:59.605432Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:13:14.616907Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:13:29.618859Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:13:44.623748Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:13:59.628643Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:14:14.632652Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:14:29.636167Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:14:44.648738Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:14:59.662147Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:15:14.667571Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:15:29.673646Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:15:44.680142Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:15:59.689832Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:16:14.703877Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:16:29.712869Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:16:44.717302Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:16:59.724176Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:17:14.726209Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:17:29.739722Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:17:44.747042Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:17:59.761940Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:18:14.766988Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:18:29.774524Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:18:44.778982Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:18:59.779770Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:19:14.781740Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:19:29.783606Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:19:44.789818Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:19:59.792002Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:20:14.805863Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:20:29.816517Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:20:44.820240Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:20:59.834743Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:21:14.842670Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:21:29.858032Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:21:44.865688Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:21:59.875698Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:22:14.878534Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:22:29.887150Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:22:44.888646Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:22:59.895775Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:23:14.900503Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:23:29.909531Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:23:44.915271Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:23:59.930912Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:24:14.936499Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:24:29.946970Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:24:44.949614Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:24:59.950230Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:25:14.956826Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:25:29.959887Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:25:44.968103Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:25:59.971901Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:26:14.974182Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:26:29.979399Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:26:44.991694Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:26:59.993236Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:27:15.003349Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:27:30.006274Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:27:45.015706Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:28:00.019351Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:28:15.021153Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:28:30.035156Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:28:45.051496Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:29:00.067815Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:29:08.158540Z  INFO faf_app::infra::ice_java: ICE adapter connection state state="Disconnected"
+2026-10-11T10:29:08.158936Z  INFO faf_app::infra::replay_recorder: replay recorded path=C:\ProgramData\FAForever\replays\27937140-DillyDally.fafreplay raw_bytes=630872 bytes=109453 complete=true
+2026-10-11T10:29:08.159200Z  INFO faf_app::infra::replay_relay: replay uploaded to FAF game_id=27937140 bytes=630905
+2026-10-11T10:29:08.168369Z  INFO faf_app::infra::ice_java: ICE peer state remote_player=198349 connected=false
+2026-10-11T10:29:08.168546Z  INFO faf_app::infra::ice_java: ICE negotiation state remote_player=198349 state="disconnected"
+2026-10-11T10:29:08.711194Z  INFO faf_app::services::launcher: the game process exited; releasing the launch
+2026-10-11T10:29:08.762049Z  WARN faf_app::infra::ice_java: Java ICE adapter notification stream ended
+2026-10-11T10:29:09.339150Z  INFO faf_app::services::launcher: launcher: game exit cleanup complete
+2026-10-11T10:29:15.073641Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:29:15.231898Z  INFO faf_app::infra::game_updater: resolved retail FA install for fa_path path=C:\Program Files (x86)\Steam\steamapps\common\Supreme Commander Forged Alliance
+2026-10-11T10:29:30.082462Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:29:45.096019Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:30:00.098438Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:30:15.106074Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:30:30.119993Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:30:37.389645Z  INFO faf_app::infra::lobby_ws: lobby issued game launch game_id=27937235
+2026-10-11T10:30:38.908483Z  INFO faf_app::infra::game_updater: resolved retail FA install for fa_path path=C:\Program Files (x86)\Steam\steamapps\common\Supreme Commander Forged Alliance
+2026-10-11T10:30:38.909502Z  INFO faf_app::infra::ice_select: starting selected ICE backend backend="Java (faf-ice-adapter)"
+2026-10-11T10:30:45.131161Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:30:48.972756Z  INFO faf_app::infra::ice_java: starting Java ICE adapter game_id=27937235 rpc_port=54190 gpgnet_port=54191
+2026-10-11T10:30:50.007251Z  INFO faf_app::infra::replay_recorder: recording this game's replay port=54195 game_id=27937235
+2026-10-11T10:30:50.007379Z  INFO faf_app::infra::game: launching Forged Alliance argument_count=24 wrapper=""
+2026-10-11T10:30:55.809095Z  INFO faf_app::infra::ice_java: ICE adapter connection state state="Connected"
+2026-10-11T10:30:56.540575Z  INFO faf_app::infra::ice_java: ICE negotiation state remote_player=373906 state="gathering"
+2026-10-11T10:30:59.014546Z  INFO faf_app::infra::ice_java: ICE negotiation state remote_player=265279 state="gathering"
+2026-10-11T10:31:00.146594Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:31:01.316587Z  INFO faf_app::infra::ice_java: ICE negotiation state remote_player=265279 state="awaitingCandidates"
+2026-10-11T10:31:01.321120Z  INFO faf_app::infra::ice_java: ICE negotiation state remote_player=265279 state="checking"
+2026-10-11T10:31:02.070156Z  INFO faf_app::infra::ice_java: ICE peer state remote_player=265279 connected=true
+2026-10-11T10:31:02.070356Z  INFO faf_app::infra::ice_java: ICE negotiation state remote_player=265279 state="connected"
+2026-10-11T10:31:03.747938Z  INFO faf_app::infra::ice_java: ICE negotiation state remote_player=373906 state="awaitingCandidates"
+2026-10-11T10:31:04.408870Z  INFO faf_app::infra::ice_java: ICE negotiation state remote_player=373906 state="checking"
+2026-10-11T10:31:05.212733Z  INFO faf_app::infra::ice_java: ICE peer state remote_player=373906 connected=true
+2026-10-11T10:31:05.212893Z  INFO faf_app::infra::ice_java: ICE negotiation state remote_player=373906 state="connected"
+2026-10-11T10:31:05.306436Z  INFO faf_app::infra::ice_java: ICE negotiation state remote_player=198349 state="gathering"
+2026-10-11T10:31:07.574802Z  INFO faf_app::infra::ice_java: ICE negotiation state remote_player=198349 state="awaitingCandidates"
+2026-10-11T10:31:07.575500Z  INFO faf_app::infra::ice_java: ICE negotiation state remote_player=198349 state="checking"
+2026-10-11T10:31:08.127465Z  INFO faf_app::infra::ice_java: ICE peer state remote_player=198349 connected=true
+2026-10-11T10:31:08.127632Z  INFO faf_app::infra::ice_java: ICE negotiation state remote_player=198349 state="connected"
+2026-10-11T10:31:15.159461Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:31:30.169271Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:31:45.177019Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:32:00.180718Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:32:15.193044Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:32:30.203255Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:32:45.206157Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:33:00.219262Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:33:15.232176Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:33:30.243204Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:33:45.254091Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:34:00.261587Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:34:15.267654Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:34:30.272472Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:34:45.277328Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:35:00.282088Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:35:15.295524Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:35:30.306851Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:35:45.311035Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:36:00.313180Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:36:15.317818Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:36:30.320618Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:36:45.336615Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:37:00.348635Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:37:15.358330Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:37:30.361047Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:37:45.372193Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:38:00.374789Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:38:15.387912Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:38:30.393556Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:38:45.402023Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:39:00.411941Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:39:15.424182Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:39:30.436338Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:39:45.445547Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:40:00.448226Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:40:15.452180Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:40:30.456584Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:40:45.459753Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:41:00.469653Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:41:15.480599Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:41:30.494697Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:41:45.497930Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:42:00.505784Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:42:06.460360Z  INFO faf_app::infra::replay_recorder: replay recorded path=C:\ProgramData\FAForever\replays\27937235-DillyDally.fafreplay raw_bytes=338636 bytes=55827 complete=true
+2026-10-11T10:42:06.460577Z  INFO faf_app::infra::replay_relay: replay uploaded to FAF game_id=27937235 bytes=338669
+2026-10-11T10:42:12.324788Z  INFO faf_app::infra::ice_java: ICE adapter connection state state="Disconnected"
+2026-10-11T10:42:12.534284Z  INFO faf_app::services::launcher: the game process exited; releasing the launch
+2026-10-11T10:42:12.567278Z  WARN faf_app::infra::ice_java: Java ICE adapter notification stream ended
+2026-10-11T10:42:12.844612Z  INFO faf_app::services::launcher: launcher: game exit cleanup complete
+2026-10-11T10:42:15.517947Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:42:15.825348Z  INFO faf_app::infra::game_updater: resolved retail FA install for fa_path path=C:\Program Files (x86)\Steam\steamapps\common\Supreme Commander Forged Alliance
+2026-10-11T10:42:30.524201Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:42:45.529288Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:43:00.541621Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:43:15.557246Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:43:19.838958Z  INFO faf_app::infra::game_updater: resolved retail FA install for fa_path path=C:\Program Files (x86)\Steam\steamapps\common\Supreme Commander Forged Alliance
+2026-10-11T10:43:19.847529Z  INFO faf_app::infra::game: launching Forged Alliance argument_count=9 wrapper=""
+2026-10-11T10:43:30.568750Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:43:45.569911Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:44:00.585293Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:44:15.592957Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:44:30.595627Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:44:45.602638Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:45:00.603934Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:45:15.616007Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:45:30.624570Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:45:45.626840Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:46:00.633980Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:46:15.641386Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:46:30.656769Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:46:45.665768Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:47:00.677841Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:47:15.687899Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T10:47:30.696492Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T11:05:15.093836Z  INFO faforever_rust_client_lib::diagnostics: client diagnostics initialized retained_files=7 max_file_bytes=10485760
+2026-10-11T11:05:15.095454Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T11:05:17.082452Z  INFO faf_app::infra::lobby_ws: lobby WebSocket connected
+2026-10-11T11:05:17.084604Z  INFO faf_app::infra::irc: chat WebSocket connected
+2026-10-11T11:05:17.133678Z  INFO faf_app::infra::lobby_ws: lobby notice received style=Info text=You are using an unofficial client version! Some features might not work as expected. If you experience any problems please download the latest version of the official client from <a href="https://www.faforever.com">https://www.faforever.com</a>
+2026-10-11T11:05:19.465141Z  INFO faf_app::infra::lobby_ws: lobby authenticated
+2026-10-11T11:05:30.104335Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T11:05:32.594522Z  INFO faf_app::infra::game_updater: resolved retail FA install for fa_path path=C:\Program Files (x86)\Steam\steamapps\common\Supreme Commander Forged Alliance
+2026-10-11T13:31:27.247272Z  INFO faforever_rust_client_lib::diagnostics: client diagnostics initialized retained_files=7 max_file_bytes=10485760
+2026-10-11T13:31:27.248717Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T13:31:28.549820Z  INFO faf_app::infra::irc: chat WebSocket connected
+2026-10-11T13:31:28.609568Z  INFO faf_app::infra::lobby_ws: lobby WebSocket connected
+2026-10-11T13:31:28.662180Z  INFO faf_app::infra::lobby_ws: lobby notice received style=Info text=You are using an unofficial client version! Some features might not work as expected. If you experience any problems please download the latest version of the official client from <a href="https://www.faforever.com">https://www.faforever.com</a>
+2026-10-11T13:31:30.881692Z  INFO faf_app::infra::lobby_ws: lobby authenticated
+2026-10-11T13:31:42.257835Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T13:31:57.262219Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T13:32:04.105569Z  INFO faf_app::infra::game_updater: resolved retail FA install for fa_path path=C:\Program Files (x86)\Steam\steamapps\common\Supreme Commander Forged Alliance
+2026-10-11T13:32:12.269238Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T13:32:27.285682Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T13:32:42.301188Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T13:32:49.658044Z  INFO faf_app::infra::game_updater: resolved retail FA install for fa_path path=C:\Program Files (x86)\Steam\steamapps\common\Supreme Commander Forged Alliance
+2026-10-11T13:32:50.067635Z  INFO faf_app::infra::game: launching Forged Alliance argument_count=9 wrapper=""
+2026-10-11T13:32:57.307280Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T13:33:12.321208Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T13:33:27.324043Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T13:33:42.332170Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T13:33:57.345431Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T13:34:12.353627Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T13:34:27.355216Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T13:34:42.367197Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T13:34:57.380639Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T13:35:12.390946Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T13:35:27.404147Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T13:35:42.415344Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T13:35:57.417603Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T13:36:12.431511Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T13:36:27.435924Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T13:36:42.436764Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T13:36:57.440468Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T13:37:12.455496Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T13:37:27.470209Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T13:37:42.479347Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T13:37:57.486882Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T13:38:12.494959Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T13:38:27.500727Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T13:38:42.501542Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T13:38:57.513286Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T13:39:12.529187Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T13:39:27.542332Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T13:39:42.546129Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T13:39:57.557558Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T13:40:12.569136Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T13:40:27.574643Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T13:40:42.586155Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T13:40:57.601471Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T13:41:12.612807Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T13:41:27.615313Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T13:41:42.617672Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T13:41:57.626425Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T13:42:12.637337Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T13:42:27.650266Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T13:42:42.657770Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T13:42:57.660021Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T13:43:12.674512Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T13:43:27.687640Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T13:43:42.695196Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T13:43:57.709585Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T13:44:12.711951Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T13:44:27.715923Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T13:44:42.719460Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T13:44:57.732494Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T13:45:12.741254Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T13:45:27.753335Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T13:45:42.766253Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T13:45:57.773803Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T13:46:12.776726Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T13:46:27.784918Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T13:46:42.799222Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T13:46:57.815177Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T13:47:12.825320Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T13:47:27.841909Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T13:47:42.857874Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T13:47:57.870746Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T13:48:12.875846Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T13:48:27.878882Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T13:48:42.888375Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T13:48:57.893908Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T13:49:12.898065Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T13:49:27.908450Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T13:49:42.923877Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T13:49:57.930232Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T13:50:12.939152Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T13:50:27.955699Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T14:13:44.253746Z  INFO faforever_rust_client_lib::diagnostics: client diagnostics initialized retained_files=7 max_file_bytes=10485760
+2026-10-11T14:13:44.255305Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T14:13:46.195150Z  INFO faf_app::infra::lobby_ws: lobby WebSocket connected
+2026-10-11T14:13:46.227813Z  INFO faf_app::infra::lobby_ws: lobby notice received style=Info text=You are using an unofficial client version! Some features might not work as expected. If you experience any problems please download the latest version of the official client from <a href="https://www.faforever.com">https://www.faforever.com</a>
+2026-10-11T14:13:46.328367Z  INFO faf_app::infra::irc: chat WebSocket connected
+2026-10-11T14:13:48.536677Z  INFO faf_app::infra::lobby_ws: lobby authenticated
+2026-10-11T14:13:58.425302Z  INFO faf_app::infra::game_updater: resolved retail FA install for fa_path path=C:\Program Files (x86)\Steam\steamapps\common\Supreme Commander Forged Alliance
+2026-10-11T14:13:59.260126Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T14:14:14.264107Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T14:14:18.818136Z  INFO faf_app::infra::game_updater: resolved retail FA install for fa_path path=C:\Program Files (x86)\Steam\steamapps\common\Supreme Commander Forged Alliance
+2026-10-11T14:14:18.819042Z  INFO faf_app::infra::replay: generating map required by replay playback map_name="neroxis_map_generator_1.21.2_jk56zqazrgglq_ayea"
+2026-10-11T14:14:20.896813Z  INFO faf_app::infra::game: launching Forged Alliance argument_count=9 wrapper=""
+2026-10-11T14:14:23.636001Z  INFO faf_app::infra::lobby_ws: lobby issued game launch game_id=27938393
+2026-10-11T14:14:23.639324Z  INFO faf_app::services::launcher: generating map required by launch map_name="neroxis_map_generator_1.21.2_o7kakxqzhkxqg_bifa"
+2026-10-11T14:14:27.096590Z  INFO faf_app::infra::game_updater: resolved retail FA install for fa_path path=C:\Program Files (x86)\Steam\steamapps\common\Supreme Commander Forged Alliance
+2026-10-11T14:14:27.097323Z  INFO faf_app::infra::ice_select: starting selected ICE backend backend="Java (faf-ice-adapter)"
+2026-10-11T14:14:29.278350Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T14:14:37.147752Z  INFO faf_app::infra::ice_java: starting Java ICE adapter game_id=27938393 rpc_port=64297 gpgnet_port=64298
+2026-10-11T14:14:38.181898Z  INFO faf_app::infra::replay_recorder: recording this game's replay port=64302 game_id=27938393
+2026-10-11T14:14:38.182038Z  INFO faf_app::infra::game: launching Forged Alliance argument_count=24 wrapper=""
+2026-10-11T14:14:44.082423Z  INFO faf_app::infra::ice_java: ICE adapter connection state state="Connected"
+2026-10-11T14:14:44.279975Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T14:14:44.412589Z  INFO faf_app::infra::ice_java: ICE negotiation state remote_player=1877 state="gathering"
+2026-10-11T14:14:49.261416Z  INFO faf_app::infra::ice_java: ICE negotiation state remote_player=185813 state="gathering"
+2026-10-11T14:14:51.845471Z  INFO faf_app::infra::ice_java: ICE negotiation state remote_player=1877 state="awaitingCandidates"
+2026-10-11T14:14:51.958865Z  INFO faf_app::infra::ice_java: ICE negotiation state remote_player=1877 state="checking"
+2026-10-11T14:14:52.173344Z  INFO faf_app::infra::ice_java: ICE peer state remote_player=1877 connected=true
+2026-10-11T14:14:52.173509Z  INFO faf_app::infra::ice_java: ICE negotiation state remote_player=1877 state="connected"
+2026-10-11T14:14:52.183025Z  INFO faf_app::infra::ice_java: ICE negotiation state remote_player=22745 state="gathering"
+2026-10-11T14:14:53.911861Z  INFO faf_app::infra::ice_java: ICE negotiation state remote_player=136480 state="gathering"
+2026-10-11T14:14:54.427180Z  INFO faf_app::infra::ice_java: ICE negotiation state remote_player=22745 state="awaitingCandidates"
+2026-10-11T14:14:54.428160Z  INFO faf_app::infra::ice_java: ICE negotiation state remote_player=22745 state="checking"
+2026-10-11T14:14:54.702467Z  INFO faf_app::infra::ice_java: ICE peer state remote_player=22745 connected=true
+2026-10-11T14:14:54.702578Z  INFO faf_app::infra::ice_java: ICE negotiation state remote_player=22745 state="connected"
+2026-10-11T14:14:56.084237Z  INFO faf_app::infra::ice_java: ICE negotiation state remote_player=185813 state="awaitingCandidates"
+2026-10-11T14:14:56.085051Z  INFO faf_app::infra::ice_java: ICE negotiation state remote_player=185813 state="checking"
+2026-10-11T14:14:56.177753Z  INFO faf_app::infra::ice_java: ICE negotiation state remote_player=136480 state="awaitingCandidates"
+2026-10-11T14:14:56.178396Z  INFO faf_app::infra::ice_java: ICE negotiation state remote_player=136480 state="checking"
+2026-10-11T14:14:56.606789Z  INFO faf_app::infra::ice_java: ICE peer state remote_player=136480 connected=true
+2026-10-11T14:14:56.606916Z  INFO faf_app::infra::ice_java: ICE negotiation state remote_player=136480 state="connected"
+2026-10-11T14:14:59.296752Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T14:15:00.325533Z  INFO faf_app::infra::ice_java: ICE negotiation state remote_player=185813 state="disconnected"
+2026-10-11T14:15:00.338729Z  INFO faf_app::infra::ice_java: ICE negotiation state remote_player=185813 state="gathering"
+2026-10-11T14:15:02.606111Z  INFO faf_app::infra::ice_java: ICE negotiation state remote_player=185813 state="awaitingCandidates"
+2026-10-11T14:15:02.607461Z  INFO faf_app::infra::ice_java: ICE negotiation state remote_player=185813 state="checking"
+2026-10-11T14:15:02.760335Z  INFO faf_app::infra::ice_java: ICE peer state remote_player=185813 connected=true
+2026-10-11T14:15:02.760516Z  INFO faf_app::infra::ice_java: ICE negotiation state remote_player=185813 state="connected"
+2026-10-11T14:15:14.304647Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T14:15:29.322365Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T14:15:44.328274Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T14:15:59.336112Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T14:16:13.691140Z  WARN faf_app::infra::ice_java: Java ICE adapter notification stream ended
+2026-10-11T14:16:13.965710Z  INFO faf_app::services::launcher: the game process exited; releasing the launch
+2026-10-11T14:16:14.339432Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T14:16:14.473262Z  INFO faf_app::services::launcher: launcher: game exit cleanup complete
+2026-10-11T14:16:20.090642Z  INFO faf_app::infra::game_updater: resolved retail FA install for fa_path path=C:\Program Files (x86)\Steam\steamapps\common\Supreme Commander Forged Alliance
+2026-10-11T14:16:29.353797Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T14:16:44.366709Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T14:16:59.380471Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T14:17:14.387967Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T14:17:29.403639Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T14:17:44.411736Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T14:17:59.422819Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T14:18:14.431559Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T14:18:29.442488Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T14:18:44.455752Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T14:18:44.623284Z  INFO faf_app::infra::lobby_ws: lobby issued game launch game_id=27938424
+2026-10-11T14:18:46.018518Z  INFO faf_app::infra::game_updater: resolved retail FA install for fa_path path=C:\Program Files (x86)\Steam\steamapps\common\Supreme Commander Forged Alliance
+2026-10-11T14:18:46.019439Z  INFO faf_app::infra::ice_select: starting selected ICE backend backend="Java (faf-ice-adapter)"
+2026-10-11T14:18:56.072398Z  INFO faf_app::infra::ice_java: starting Java ICE adapter game_id=27938424 rpc_port=60685 gpgnet_port=60686
+2026-10-11T14:18:57.100498Z  INFO faf_app::infra::replay_recorder: recording this game's replay port=60691 game_id=27938424
+2026-10-11T14:18:57.100684Z  INFO faf_app::infra::game: launching Forged Alliance argument_count=24 wrapper=""
+2026-10-11T14:18:59.470341Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T14:19:03.011628Z  INFO faf_app::infra::ice_java: ICE adapter connection state state="Connected"
+2026-10-11T14:19:04.627188Z  INFO faf_app::infra::ice_java: ICE negotiation state remote_player=22745 state="gathering"
+2026-10-11T14:19:06.197279Z  INFO faf_app::infra::ice_java: ICE negotiation state remote_player=1877 state="gathering"
+2026-10-11T14:19:07.188668Z  INFO faf_app::infra::ice_java: ICE negotiation state remote_player=22745 state="awaitingCandidates"
+2026-10-11T14:19:07.194331Z  INFO faf_app::infra::ice_java: ICE negotiation state remote_player=22745 state="checking"
+2026-10-11T14:19:07.482227Z  INFO faf_app::infra::ice_java: ICE peer state remote_player=22745 connected=true
+2026-10-11T14:19:07.482529Z  INFO faf_app::infra::ice_java: ICE negotiation state remote_player=22745 state="connected"
+2026-10-11T14:19:08.460346Z  INFO faf_app::infra::ice_java: ICE negotiation state remote_player=1877 state="awaitingCandidates"
+2026-10-11T14:19:08.462281Z  INFO faf_app::infra::ice_java: ICE negotiation state remote_player=1877 state="checking"
+2026-10-11T14:19:08.703844Z  INFO faf_app::infra::ice_java: ICE peer state remote_player=1877 connected=true
+2026-10-11T14:19:08.703979Z  INFO faf_app::infra::ice_java: ICE negotiation state remote_player=1877 state="connected"
+2026-10-11T14:19:09.984296Z  INFO faf_app::infra::ice_java: ICE negotiation state remote_player=136480 state="gathering"
+2026-10-11T14:19:12.239193Z  INFO faf_app::infra::ice_java: ICE negotiation state remote_player=136480 state="awaitingCandidates"
+2026-10-11T14:19:12.240036Z  INFO faf_app::infra::ice_java: ICE negotiation state remote_player=136480 state="checking"
+2026-10-11T14:19:12.640542Z  INFO faf_app::infra::ice_java: ICE peer state remote_player=136480 connected=true
+2026-10-11T14:19:12.640760Z  INFO faf_app::infra::ice_java: ICE negotiation state remote_player=136480 state="connected"
+2026-10-11T14:19:14.480407Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T14:19:29.484166Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T14:19:44.484814Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T14:19:59.495265Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T14:20:14.511263Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T14:20:29.520237Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T14:20:44.534496Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T14:20:50.300826Z  INFO faf_app::infra::replay_recorder: replay recorded path=C:\ProgramData\FAForever\replays\27938424-DillyDally.fafreplay raw_bytes=41329 bytes=5087 complete=true
+2026-10-11T14:20:50.301069Z  INFO faf_app::infra::replay_relay: replay uploaded to FAF game_id=27938424 bytes=41362
+2026-10-11T14:20:50.311523Z  INFO faf_app::infra::ice_java: ICE adapter connection state state="Disconnected"
+2026-10-11T14:20:50.476886Z  INFO faf_app::services::launcher: the game process exited; releasing the launch
+2026-10-11T14:20:50.496146Z  WARN faf_app::infra::ice_java: Java ICE adapter notification stream ended
+2026-10-11T14:20:50.804592Z  INFO faf_app::services::launcher: launcher: game exit cleanup complete
+2026-10-11T14:20:56.342242Z  INFO faf_app::infra::game_updater: resolved retail FA install for fa_path path=C:\Program Files (x86)\Steam\steamapps\common\Supreme Commander Forged Alliance
+2026-10-11T14:20:59.539738Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T14:21:14.555432Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T14:21:29.559798Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T14:21:44.575336Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T14:21:59.586982Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T14:22:14.600468Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T14:22:29.611427Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T14:22:44.612010Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T14:22:59.619954Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T14:23:14.624493Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T14:23:29.629017Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T14:23:44.641585Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T14:23:59.652648Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T14:24:14.664586Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T14:24:29.671261Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T14:24:44.686821Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T14:24:59.699167Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T14:25:13.085003Z  INFO faf_app::infra::lobby_ws: lobby issued game launch game_id=27938457
+2026-10-11T14:25:14.604539Z  INFO faf_app::infra::game_updater: resolved retail FA install for fa_path path=C:\Program Files (x86)\Steam\steamapps\common\Supreme Commander Forged Alliance
+2026-10-11T14:25:14.605422Z  INFO faf_app::services::launcher: launcher: the join was cancelled during preparation; not starting
+2026-10-11T14:25:14.707904Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T14:25:29.713350Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T14:25:44.724473Z  WARN faf_app::infra::discord: Discord rich presence disconnected reason=Discord is not running
+2026-10-11T14:25:59.742648Z  INFO faf_app::infra::discord: Discord rich presence connected
+2026-10-11T14:27:22.407493Z  INFO faforever_rust_client_lib::diagnostics: client diagnostics initialized retained_files=7 max_file_bytes=10485760
+2026-10-11T14:27:22.412901Z  INFO faf_app::infra::discord: Discord rich presence connected
+2026-10-11T14:27:23.873566Z  INFO faf_app::infra::lobby_ws: lobby WebSocket connected
+2026-10-11T14:27:23.905882Z  INFO faf_app::infra::lobby_ws: lobby notice received style=Info text=You are using an unofficial client version! Some features might not work as expected. If you experience any problems please download the latest version of the official client from <a href="https://www.faforever.com">https://www.faforever.com</a>
+2026-10-11T14:27:23.931875Z  INFO faf_app::infra::irc: chat WebSocket connected
+2026-10-11T14:27:26.103304Z  INFO faf_app::infra::lobby_ws: lobby authenticated
+2026-10-11T14:27:29.142471Z  INFO faf_app::infra::game_updater: resolved retail FA install for fa_path path=C:\Program Files (x86)\Steam\steamapps\common\Supreme Commander Forged Alliance
