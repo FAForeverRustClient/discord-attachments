@@ -1,0 +1,18 @@
+2026-10-12T18:06:30.049888Z  INFO faforever_rust_client_lib::diagnostics: client diagnostics initialized retained_files=7 max_file_bytes=10485760
+2026-10-12T18:06:30.454767Z  INFO faf_app::infra::discord: Discord rich presence connected
+2026-10-12T18:06:37.447409Z  INFO faf_app::infra::irc: chat WebSocket connected
+2026-10-12T18:06:37.831972Z  INFO faf_app::infra::lobby_ws: lobby WebSocket connected
+2026-10-12T18:06:38.178473Z  INFO faf_app::infra::lobby_ws: lobby notice received style=Info text=You are using an unofficial client version! Some features might not work as expected. If you experience any problems please download the latest version of the official client from <a href="https://www.faforever.com">https://www.faforever.com</a>
+2026-10-12T18:06:41.723686Z  INFO faf_app::infra::lobby_ws: lobby authenticated
+2026-10-12T18:06:54.127605Z  INFO faf_app::infra::game_updater: resolved retail FA install for fa_path path=C:\Program Files (x86)\THQ\Gas Powered Games\Supreme Commander - Forged Alliance
+2026-10-12T18:06:54.481332Z  INFO faf_app::infra::lobby_ws: lobby issued game launch game_id=27945505
+2026-10-12T18:06:57.314271Z  INFO faf_app::infra::game_updater: resolved retail FA install for fa_path path=C:\Program Files (x86)\THQ\Gas Powered Games\Supreme Commander - Forged Alliance
+2026-10-12T18:06:57.316287Z  INFO faf_app::infra::ice_select: starting selected ICE backend backend="Java (faf-ice-adapter)"
+2026-10-12T18:07:07.697246Z  INFO faf_app::infra::ice_java: starting Java ICE adapter game_id=27945505 rpc_port=63701 gpgnet_port=63702
+2026-10-12T18:07:10.209313Z  INFO faf_app::infra::replay_recorder: recording this game's replay port=63776 game_id=27945505
+2026-10-12T18:07:10.210057Z  INFO faf_app::infra::game: launching Forged Alliance argument_count=17 wrapper=""
+2026-10-12T18:07:26.397590Z  INFO faf_app::infra::ice_java: ICE adapter connection state state="Connected"
+2026-10-12T18:08:02.925901Z  INFO faf_app::infra::ice_java: ICE adapter connection state state="Disconnected"
+2026-10-12T18:08:03.301906Z  INFO faf_app::services::launcher: the game process exited; releasing the launch
+2026-10-12T18:08:03.370443Z  WARN faf_app::infra::ice_java: Java ICE adapter notification stream ended
+2026-10-12T18:08:03.931748Z  INFO faf_app::services::launcher: launcher: game exit cleanup complete
